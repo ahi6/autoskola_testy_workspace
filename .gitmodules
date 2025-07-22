@@ -1,0 +1,9 @@
+[submodule "downloader4etesty2"]
+	path = downloader4etesty2
+	url = https://github.com/ahi6/downloader4etesty2
+[submodule "downloader4etesty2_cli"]
+	path = downloader4etesty2_cli
+	url = https://github.com/ahi6/downloader4etesty2_cli
+[submodule "autoskola_testy"]
+	path = autoskola_testy
+	url = https://github.com/ahi6/autoskola_testy
