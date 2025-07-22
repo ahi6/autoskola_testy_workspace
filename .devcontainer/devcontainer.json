@@ -1,0 +1,16 @@
+{
+	"name": "Dioxus codespaces",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"matklad.rust-analyzer",
+				"fill-labs.dependi",
+				"tamasfe.even-better-toml"
+			],
+			"settings": {
+				"editor.formatOnSave": true
+			}
+		}
+	},
+	"image": "lewimbes/dioxus:0.6.3"
+}
