@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
-members = ["autoskola_eztests", "downloader4etesty2", "downloader4etesty2_cli"]
+members = ["autoskola_testy", "downloader4etesty2", "downloader4etesty2_cli"]
 
 [profile]
 
